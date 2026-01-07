@@ -1,0 +1,6 @@
+create a poem on the give word ,
+
+example
+
+rain rain goaway
+come again another day
